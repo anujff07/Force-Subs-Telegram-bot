@@ -8,7 +8,7 @@
   ],
   "success_url": "https://github.com/anujff07/Force-Subs-Telegram-bot",
   "website": "https://github.com/MRK-YT/Force-Subs-Telegram-bot",
-  "repository": "https://github.com/MRK-YT/Force-Subs-Telegram-bot",
+  "repository": "https://github.com/anujff07/Force-Subs-Telegram-bot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
